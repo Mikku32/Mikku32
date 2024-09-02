@@ -33,6 +33,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikku32&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mikku32&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=mikku32&label=Profile%20Views&icon=4&pretty=true)](https://visitcount.itsvg.in)
