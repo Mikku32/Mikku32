@@ -1,4 +1,4 @@
-# ✨ Hey :)
+# ✨ Hey there :)
 <br>👋 Hi, I'm Mikdhad, a passionate Flutter and React developer based in Kerala, India.<br> <br>📱 I specialize in creating dynamic and user-friendly applications and websites using Flutter, React, and NextJS.<br> <br>💻 My backend expertise includes Django REST and Laravel, ensuring robust and scalable solutions for any project.<br> <br>🤝🏼  Excited about collaborating on open-source projects and sharing knowledge with the tech community<br> <br>🚀 A lifelong learner, I continuously seek to improve my skills and explore new technologies.
 
 ## 🌐 Socials:
