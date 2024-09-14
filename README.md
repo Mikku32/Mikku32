@@ -23,8 +23,7 @@
 ![Laravel](https://img.shields.io/badge/LARAVEL-%23333333?style=for-the-badge&logo=laravel&logoSize=auto)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-%231E90FF?style=for-the-badge&logo=git&logoSize=auto)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Git](https://img.shields.io/badge/Git-%231E90FF?style=for-the-badge&logo=git&logoSize=auto)
 
 
  
