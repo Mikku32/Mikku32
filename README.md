@@ -1,5 +1,5 @@
 #  Hey :)
-<br>👋 Hi, I'm Mikdhad, a passionate Flutter and React developer based in Kerala, India.<br> <br>📱 I specialize in creating dynamic and user-friendly applications and websites using Flutter, React, and NextJS.<br> <br>💻 My backend expertise includes Django REST and Laravel, ensuring robust and scalable solutions for any project.<br> <br>🤝🏼  Excited about collaborating on open-source projects and sharing knowledge with the tech community<br> <br>🚀 A lifelong learner, I continuously seek to improve my skills and explore new technologies.
+<br>👋 Hi, I'm Mikdhad, a passionate Flutter, Laravel and React developer based in Kerala, India.<br> <br>📱 I specialize in creating dynamic and user-friendly applications and websites using Flutter, React, and NextJS.<br> <br>💻 My backend expertise includes Django REST and Laravel, ensuring robust and scalable solutions for any project.<br> <br>🤝🏼  Excited about collaborating on open-source projects and sharing knowledge with the tech community<br> <br>🚀 A lifelong learner, I continuously seek to improve my skills and explore new technologies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikdhad-k/) 
@@ -29,7 +29,7 @@
  
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mikku32&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikku32&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mikku32&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
